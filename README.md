@@ -2,11 +2,11 @@
 <br>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=بوت+سفروت+بوت+قابل+للتطوير;كل+شي+غير+مشفر+استمتع+وشكرا+لك+%3A3;%5B+سفروت+هو+المطور+تدعمه+7لاتنسى+%5D_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=بوت+سفروت+بوت+قابل+للتطوير;كل+شي+غير+مشفر+استمتع+وشكرا+لك+%3A3;%5B++بوت+سفروت+الفقدان%5D_)](https://git.io/typing-svg)
 <img src="https://c.tenor.com/D2H0hPltOdYAAAAM/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="400" height="230"/>
 </div>
 <br>
-##`follow me شرح تشغيل لبوت`
+##`يتيوبي`
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SAFROT?si=N5KKoTotLOgpG6-z)
