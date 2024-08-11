@@ -1,4 +1,4 @@
-<h1 align="center">Luffy bot</h1>
+<h1 align="center">𝙎𝙖𝙛𝙧𝙤𝙩-𝘽𝙤𝙩</h1>
 <br>
 <div align="center">
 
