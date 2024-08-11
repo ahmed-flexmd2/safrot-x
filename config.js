@@ -3,8 +3,8 @@ const chalk = require('chalk')
 
 
 
-global.owner = ['']
-global.NomeDoBot = ``
+global.owner = ['201115618853']
+global.NomeDoBot = `𝙎𝙖𝙛𝙧𝙤𝙩-𝘽𝙤𝙩`
 global.premium = ['']
 global.travaSend = '10'
 global.packname = ''
